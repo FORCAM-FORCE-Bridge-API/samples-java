@@ -18,9 +18,9 @@ Please add your URL, user and password of your Bridge API instance to the variab
 
 ```Java
 
-string user; // YOUR USER (e.g. GitHub)
-string password; // YOUR PASSWORD (e.g. GitHub)
-string urlToken = ""; // YOUR URL (e.g. https://forcebridgehackathon.force.eco:24443/ffwebservices/)
+String user; // YOUR USER (e.g. GitHub)
+String password; // YOUR PASSWORD (e.g. GitHub)
+String urlToken = ""; // YOUR URL (e.g. https://forcebridgehackathon.force.eco:24443/ffwebservices/)
 ```
 
 ###### Framework & Tool
