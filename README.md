@@ -33,7 +33,7 @@ string urlToken = ""; // YOUR URL (e.g. https://forcebridgehackathon.force.eco:2
 
 A small Eclipse Java console application wich authenticates to a FORCAM FORCE Bridge API and prints out the token information.
 
-![Image](assets/AuthenticationGif.gif)
+![Image](Assets/AuthenticationGif.gif)
 
 Folder: "Authentication".
 
@@ -41,7 +41,7 @@ Folder: "Authentication".
 
 A small Eclipse Java console application wich authenticates to a FORCAM FORCE Bridge API, determine all available workplaces and prints them out.
 
-![Image](assets/GetAvailableWorkplacesGif.gif)
+![Image](Assets/GetAvailableWorkplacesGif.gif)
 
 Folder: "GetAvailableWorkplaces".
 
@@ -49,7 +49,7 @@ Folder: "GetAvailableWorkplaces".
 
 A small Eclipse Java console application wich authenticates to a FORCAM FORCE Bridge API, determine the operating state of an workplace and print it.
 
-![Image](assets/GetOperatingStateOfWorkplaceGif.gif)
+![Image](Assets/GetOperatingStateOfWorkplaceGif.gif)
 
 Folder: "GetOperatingStateOfWorkplace".
 
@@ -57,6 +57,6 @@ Folder: "GetOperatingStateOfWorkplace".
 
 A small Eclipse Java console application wich authenticates to a FORCAM FORCE Bridge API, determine all operating states and prints them out.
 
-![Image](assets/GetOperatingStatesGif.gif)
+![Image](Assets/GetOperatingStatesGif.gif)
 
 Folder: "GetOperatingStates".
