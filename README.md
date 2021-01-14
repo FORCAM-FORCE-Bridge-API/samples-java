@@ -26,6 +26,7 @@ String urlToken = ""; // YOUR URL (e.g. https://forcebridgehackathon.force.eco:2
 ###### Framework & Tool
 
 Eclipse IDE runtime (https://www.eclipse.org/downloads)
+Package for converting json (https://jar-download.com/artifacts/com.google.code.gson/gson/2.8.2/source-code)
 
 ### Description of the sample applications:
 
