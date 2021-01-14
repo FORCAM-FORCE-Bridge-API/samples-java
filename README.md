@@ -25,7 +25,7 @@ String urlToken = ""; // YOUR URL (e.g. https://forcebridgehackathon.force.eco:2
 
 ###### Framework & Tool
 
-* Eclipse IDE runtime (https://www.eclipse.org/downloads)
+Eclipse IDE runtime (https://www.eclipse.org/downloads)
 
 ### Description of the sample applications:
 
